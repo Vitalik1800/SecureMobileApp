@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SecureMobileApp</string>
+    <string name="email">Email</string>
+    <string name="Password">Пароль</string>
+    <string name="Login">Авторизація</string>
+    <string name="Register1">Не зареєстровані? Натисніть тут для реєстрації</string>
+    <string name="ConfirmPassword">Підтвердіть пароль</string>
+    <string name="Register">Реєстрація</string>
+    <string name="CheckApps">Перевірити шкідливі програми</string>
+    <string name="CheckResults">Результати перевірки:</string>
+</resources>
